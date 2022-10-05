@@ -1,0 +1,15 @@
+.head {
+  color: red;
+  font-style: italic;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+}
+
+.para {
+  color: blue;
+  font-style: italic;
+  font-size: medium;
+  font-weight: bold;
+  text-align: center;
+}
